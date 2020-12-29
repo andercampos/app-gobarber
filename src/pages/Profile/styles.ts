@@ -15,7 +15,7 @@ export const Title = styled.Text`
 `;
 
 export const BackButton = styled.TouchableOpacity`
-  margin-top: ${Platform.OS === 'android' ? 200 : 32}px;
+  margin-top: 32px;
 `;
 
 export const UserAvatarButton = styled.TouchableOpacity`
